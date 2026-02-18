@@ -5,12 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "video": "remotion studio src/remotion/index.ts",
     "render": "remotion render src/remotion/index.ts FullSequence out/video.mp4",
-    "render-stills": "remotion still src/remotion/index.ts FullSequence out/still.png"
+    "render-stills": "remotion still src/remotion/index.ts FullSequence out/still.png",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@remotion/cli": "^4.0.422",
@@ -33,6 +35,7 @@
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
+    "gh-pages": "^6.3.0",
     "globals": "^16.5.0",
     "tailwindcss": "^4.1.18",
     "tsx": "^4.21.0",
