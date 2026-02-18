@@ -1,73 +1,60 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# WorldBuilder
 
-Currently, two official plugins are available:
+**WorldBuilder** is a "Concentric" design system tool for creating abstract, geometric narrative animations based on poetry. It uses React and Remotion to generate high-quality video content from structured data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
 
-## React Compiler
+### Prerequisites
+- Node.js (v18+)
+- NPM
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+### Installation
+```bash
+npm install
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+### Running the Editor
+To start the local development environment:
+```bash
+npm run dev
 ```
+This will open the WorldBuilder interface in your browser (usually at `http://localhost:5173`).
+
+## Workflow
+
+1.  **Poem Source**: Select a stanza from the loaded poem (e.g., Line 1, 34, 100).
+2.  **Storyboard Table**: Define the intent and visual metaphor for each beat.
+3.  **Vector Table**: Fine-tune the position, color, and motion of glyphs.
+4.  **Preview**: Watch the generated animation.
+
+## adding New Paragraphs
+To add new mock data or real poem segments:
+1.  Create a new file in `src/data/` (e.g., `stanza[ID].ts`).
+2.  Define `[ID]_STORYBOARD` and `[ID]_VECTOR` arrays following the `StoryboardRow` and `VectorRow` interfaces.
+3.  Update `src/data/loader.ts` to import your new data and add a case to the `loadStanzaData` switch statement.
+
+## Exporting Video
+
+To render the final MP4 video, run the following command in your terminal:
+
+```bash
+npm run render
+```
+
+The output file will be saved to `out/video.mp4`.
+
+## Exporting Stills
+
+To export a single high-quality PNG still:
+
+```bash
+npm run render-stills
+```
+
+Output saved to `out/still.png`.
+
+## Known Limitations
+-   **Audio Sync**: Narration is currently a placeholder URL. Replace `NARRATION_URL` in `src/remotion/SequenceComposition.tsx` with a local file import for final production.
+-   **Export**: Browser-side export of stills is simulated. Use the terminal commands for actual high-res output.
+-   **Performance**: Complex particle systems may drop frames in the browser preview; the final render will be smooth.
