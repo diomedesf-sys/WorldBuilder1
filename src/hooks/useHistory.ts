@@ -1,5 +1,5 @@
 
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useEffect } from 'react';
 
 interface HistoryState<T> {
     past: T[];
@@ -7,12 +7,39 @@ interface HistoryState<T> {
     future: T[];
 }
 
+const STORAGE_KEY = 'world_builder_state_v1';
+
 export function useHistory<T>(initialPresent: T, historyLimit: number = 50) {
-    const [state, setState] = useState<HistoryState<T>>({
-        past: [],
-        present: initialPresent,
-        future: [],
+    // Initialize from localStorage if available, otherwise use initialPresent
+    const [state, setState] = useState<HistoryState<T>>(() => {
+        try {
+            const saved = localStorage.getItem(STORAGE_KEY);
+            if (saved) {
+                const parsed = JSON.parse(saved);
+                // Validate structure briefly? assume safe for now.
+                // We MUST update 'present' structure if data model changed?
+                // For now, trust storage. If corrupted, user can clear cache.
+                // Or maybe merge with initialPresent to ensure new fields exists?
+                return parsed;
+            }
+        } catch (e) {
+            console.error("Failed to load history from storage", e);
+        }
+        return {
+            past: [],
+            present: initialPresent,
+            future: [],
+        };
     });
+
+    // Save to localStorage whenever state changes
+    useEffect(() => {
+        try {
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+        } catch (e) {
+            console.error("Failed to save history to storage", e);
+        }
+    }, [state]);
 
     const canUndo = state.past.length > 0;
     const canRedo = state.future.length > 0;
@@ -68,11 +95,13 @@ export function useHistory<T>(initialPresent: T, historyLimit: number = 50) {
     }, [historyLimit]);
 
     const reset = useCallback((newPresent: T) => {
-        setState({
+        const newState = {
             past: [],
             present: newPresent,
             future: [],
-        });
+        };
+        setState(newState);
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(newState)); // Force save immediately
     }, []);
 
     return {

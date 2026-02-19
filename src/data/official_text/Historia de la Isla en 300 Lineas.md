@@ -1,20 +1,41 @@
 
-export interface PoemLine {
-    id: number;
-    title?: string;
-    text: string;
-    section: 'Pasado' | 'Presente' | 'Futuro' | 'Post-Data';
-    range: string;
-}
 
-export const FULL_POEM: PoemLine[] = [
-    // PASADO
-    {
-        id: 1,
-        title: 'Todo empezó en un instante',
-        section: 'Pasado',
-        range: '1-33',
-        text: `Todo empezó en un instante  
+Historia de la Isla   
+en 300 líneas   
+(Pasado, presente y futuro   
+   de la República Dominicana) 
+
+Montezinos
+
+   
+Índice 
+
+Pasado   
+1-33…………………….Desde la creación hasta la utopía taína.   
+34-66…………………..Desde la Iberia hasta el Caribe.   
+67-99…………………..Desde la esclavitud hasta la independencia.
+
+   
+Presente   
+100-132……………….Desde Liborio hasta Balaguer.   
+133-165……………….Desde los años 80 hasta el año 2000\.  
+166-198……………….Desde el hombre Mega-Moderno hasta el día 0\. 
+
+Futuro   
+199-231…………….…La primera familia.   
+232-264……………….Nuevos Cacicazgos.   
+265-297……………….Nada cuesta soñar. 
+
+298-300……………….Post-Data.
+
+PASADO   
+(Desde la Creación  
+hasta la  
+Independencia)
+
+1 
+
+Todo empezó en un instante  
 Dicen que con explosión  
 Otros que con un soplido.  
 Aquí nació con YaYá  
@@ -48,14 +69,11 @@ Es pasado y es futuro
 guardado en el subconsciente  
 Un tiempo de paz inmensa  
 Utopías que nos alientan  
-Imposibles de olvidar.`
-    },
-    {
-        id: 34,
-        title: 'Del otro lado del mundo',
-        section: 'Pasado',
-        range: '34-66',
-        text: `Del otro lado del mundo  
+Imposibles de olvidar.
+
+2
+
+Del otro lado del mundo  
 con el permiso del Rey  
 y una cruz como bandera  
 habían salido tres barcos  
@@ -89,14 +107,10 @@ la fresa y el chocolate
 la vainilla y el tomate  
 Se llevaron todo el oro  
 Y nos fundimos en uno  
-dando inicio a un nuevo mundo.`
-    },
-    {
-        id: 67,
-        title: 'Cuentan que África es',
-        section: 'Pasado',
-        range: '67-99',
-        text: `Cuentan que África es  
+dando inicio a un nuevo mundo.  
+3  
+   
+Cuentan que África es  
 madre de todo lo humano  
 Que era el sitio del Edén.  
 Un grupo de mercenarios  
@@ -130,15 +144,15 @@ fue moviendo corazones
 Prepararon las banderas  
 Un grito de tres en tres  
 Una noche y un trabuco  
-que fue estrella de Belén.`
-    },
-    // PRESENTE
-    {
-        id: 100,
-        title: 'El principio del presente',
-        section: 'Presente',
-        range: '100-132',
-        text: `El principio del presente comienza en el siglo XX  
+que fue estrella de Belén.
+
+PRESENTE   
+(Desde principios del siglo XX   
+Hasta el día de hoy)
+
+1 
+
+El principio del presente comienza en el siglo XX  
 cuando un grupo decidió demarcar todas las tierras  
 En eso andaba un peón que se llamaba Liborio  
 Se dice que ese buen hombre fue ascendido a las alturas  
@@ -172,14 +186,11 @@ Porque un yanqui que tenían en un techo atrincherado
 Era capaz de poner la bala en una luciérnaga.  
 Así se dió la batalla más sangrienta de esta historia  
 Hubo gente que lloró cuando Caamaño llegó hasta el parque Independencia.  
-Y no valió triunvirato, volvió y volvió Balaguer.`
-    },
-    {
-        id: 133,
-        title: 'La era de los ochenta',
-        section: 'Presente',
-        range: '133-165',
-        text: `La era de los ochenta fue una época dorada  
+Y no valió triunvirato, volvió y volvió Balaguer.
+
+2
+
+La era de los ochenta fue una época dorada  
 Los domingos en familia se solía ir a cenar  
 La delincuencia era un tema que atacaba otros países  
 Mientras el que había estudiado conseguía un buen trabajo  
@@ -211,14 +222,11 @@ Perdimos a Freddy Mercury, introducen el cd
 El papa visita a Cuba, comienzan a vender viagra   
 Microsoft y Macintosh se dividen las ganancias   
 El mundo ha quedado envuelto en la red del internet   
-Y no hubo Y2K.`
-    },
-    {
-        id: 166,
-        title: 'Cambio de siglo y milenio',
-        section: 'Presente',
-        range: '166-198',
-        text: `Cambio de siglo y milenio, iniciamos otra historia  
+Y no hubo Y2K.
+
+3
+
+Cambio de siglo y milenio, iniciamos otra historia  
 En este presente actual no existen ideologías  
 Comunismo, socialismo y democracia, todas valen ya lo mismo  
 Los anuncios de la tele son los únicos filósofos  
@@ -252,15 +260,14 @@ Al hombre no le importaba el hombre que tenía al lado
 Los carteles y los bancos se hicieron con el poder  
 El concepto de familia hace años transformado  
 La desconexión total, pero todos conectados  
-Cuando resurgió una raza de nuevos dominicanos.`
-    },
-    // FUTURO
-    {
-        id: 199,
-        title: 'El futuro de esta historia',
-        section: 'Futuro',
-        range: '199-231',
-        text: `El futuro de esta historia  
+Cuando resurgió una raza de nuevos dominicanos.
+
+FUTURO  
+(En un tiempo no muy lejano)
+
+1  
+   
+El futuro de esta historia  
 nace con una familia  
 que para sacar sus hijos  
 de tantas complicaciones  
@@ -294,14 +301,11 @@ y lucharon por lo mismo
 buscaron cuales recursos  
 proporcionaba la zona  
 para poder trabajarlos  
-hasta potencializarlos.`
-    },
-    {
-        id: 232,
-        title: 'Estas nuevas sociedades',
-        section: 'Futuro',
-        range: '232-264',
-        text: `Estas nuevas sociedades  
+hasta potencializarlos.
+
+2  
+   
+Estas nuevas sociedades  
 empezaron a surgir  
 a lo largo de la isla  
 Se trataban como hermanos  
@@ -335,14 +339,11 @@ todo se hizo libremente
 cada ciudad diferente  
 trabajaron sus recursos  
 compartieron sus ideas  
-y empezó una nueva era.`
-    },
-    {
-        id: 265,
-        title: 'Si algo hemos de aprender',
-        section: 'Futuro',
-        range: '265-297',
-        text: `Si algo hemos de aprender  
+y empezó una nueva era.
+
+3 
+
+Si algo hemos de aprender  
 es que la vida es un ciclo  
 Todo vuelve a comenzar  
 No hay manera de evitarlo  
@@ -376,18 +377,12 @@ Quisqueyanos. Valientes.
 En el mismo trayecto del sol,   
 si alguien quiere saber cuál es mi Patria   
 es ella la que anda ya,    
-más arriba, mucho más.`
-    },
-    // POST-DATA
-    {
-        id: 298,
-        title: 'P.D.',
-        section: 'Post-Data',
-        range: '298-300',
-        text: `Nuestro pasado es hermoso   
+más arriba, mucho más.
+
+P.D. 
+
+Nuestro pasado es hermoso   
 Nuestro presente es oscuro   
 Nuestro futuro es ser uno. 
 
-Montezinos`
-    }
-];
+Montezinos

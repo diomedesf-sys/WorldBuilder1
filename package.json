@@ -19,11 +19,13 @@
     "@remotion/player": "^4.0.422",
     "@remotion/renderer": "^4.0.422",
     "@tailwindcss/vite": "^4.1.18",
+    "framer-motion": "^12.34.2",
     "lucide-react": "^0.564.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-markdown": "^10.1.0",
     "remotion": "^4.0.422",
+    "roughjs": "^4.6.6",
     "zod": "^3.22.3"
   },
   "devDependencies": {
