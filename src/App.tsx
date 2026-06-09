@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BookOpen, Table, Grid3X3, Smartphone, Download } from 'lucide-react';
+import { BookOpen, Table, Grid3X3, Smartphone, Download, Sparkles } from 'lucide-react';
 import { ConcentricLogo } from './components/ConcentricLogo';
 
 import Dashboard from './views/Dashboard';
@@ -10,6 +10,8 @@ import { FULL_POEM as poemData } from './data/poem';
 import StoryboardTableView from './views/StoryboardTableView';
 import VectorTableView from './views/VectorTableView';
 import PreviewView from './views/PreviewView';
+import { WritingDeskView } from './views/WritingDeskView';
+import { ScoreView } from './views/ScoreView';
 // import ThumbnailView from './views/ThumbnailView'; // Could be useful but disabling for now if unused
 import { useHistory } from './hooks/useHistory';
 import type { StoryboardRow, VectorRow, ViewName } from './types';
@@ -85,10 +87,12 @@ function App() {
   const renderContent = () => {
     switch (currentView) {
       case 'dashboard': return <Dashboard />;
+      case 'score': return <ScoreView />;
+      case 'procedural': return <WritingDeskView />;
       case 'poem': return <PoemView poem={poemData} onStanzaSelect={handleStanzaSelect} />;
       case 'storyboard': return <StoryboardTableView rows={storyRows} onUpdateRow={handleStoryboardUpdate} onAddRow={() => { }} onDeleteRow={() => { }} />;
       case 'vector': return <VectorTableView rows={vectorRows} onUpdateRow={handleVectorUpdate} onAddRow={() => { }} onDeleteRow={() => { }} onBeatClick={handleBeatClick} />;
-      case 'focus': return <PoemFocusView vectorRows={vectorRows} audioUrl={appState.audioSettings?.narrationUrl || undefined} />;
+      case 'focus': return <PoemFocusView vectorRows={vectorRows} audioUrl={(appState as any).audioSettings?.narrationUrl || undefined} />;
       // Removed ArtStudio and Animation
       default: return <Dashboard />;
     }
@@ -111,6 +115,11 @@ function App() {
         </div>
 
         <nav className="flex-1 flex flex-col gap-2 w-full px-2">
+          <NavItem icon={<Sparkles size={20} />} label="G-3.1 Writing Desk" active={currentView === 'procedural'} onClick={() => setCurrentView('procedural')} collapsed={isSidebarCollapsed} />
+          <NavItem icon={<Grid3X3 size={20} />} label="Score View" active={currentView === 'score'} onClick={() => setCurrentView('score')} collapsed={isSidebarCollapsed} />
+
+          <div className="my-2 border-t border-slate-800/50" />
+
           <NavItem icon={<BookOpen size={20} />} label="Poem Source" active={currentView === 'poem'} onClick={() => setCurrentView('poem')} collapsed={isSidebarCollapsed} />
           <NavItem icon={<Table size={20} />} label="Storyboard" active={currentView === 'storyboard'} onClick={() => setCurrentView('storyboard')} collapsed={isSidebarCollapsed} />
 

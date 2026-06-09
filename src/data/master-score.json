@@ -1,0 +1,2402 @@
+[
+  {
+    "globalLineIndex": 1,
+    "text": "Todo empezó en un instante",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 2,
+    "text": "Dicen que con explosión",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 3,
+    "text": "Otros que con un soplido.",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 4,
+    "text": "Aquí nació con YaYá",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 5,
+    "text": "Espíritu material y espíritu inmaterial",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 6,
+    "text": "que colgó sobre su cama una tinaja",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 7,
+    "text": "con los huesos de su hijo",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 8,
+    "text": "De ahí salieron los peces",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 9,
+    "text": "y toda el agua del mar",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 10,
+    "text": "Gentes que vivían en cuevas",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 11,
+    "text": "y temían a Juracán.",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 12,
+    "text": "Con el sol se despertaban",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 13,
+    "text": "y cuidaban su conuco",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 14,
+    "text": "Jugaban en los bateyes",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 15,
+    "text": "como hoy, a la pelota",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 16,
+    "text": "No sé si era en día domingo",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 17,
+    "text": "pero iban a su areíto",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 18,
+    "text": "Caciques, naborías y nitaínos",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 19,
+    "text": "que dormían sobre una hamaca",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 20,
+    "text": "se fumaban su tabaco",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 21,
+    "text": "compartían lo que tenían",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 22,
+    "text": "en esta tierra de todos.",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 23,
+    "text": "Toda cultura en la tierra",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 24,
+    "text": "nos habla de ese momento",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 25,
+    "text": "en que todo era armonía",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 26,
+    "text": "La gente vivía despacio",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 27,
+    "text": "La vida tenía sentido",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 28,
+    "text": "Y todo lo que existía ocupaba su lugar.",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 29,
+    "text": "Es pasado y es futuro",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 30,
+    "text": "guardado en el subconsciente",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 31,
+    "text": "Un tiempo de paz inmensa",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 32,
+    "text": "Utopías que nos alientan",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 33,
+    "text": "Imposibles de olvidar.",
+    "era": "Pasado",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 34,
+    "text": "Del otro lado del mundo",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 35,
+    "text": "con el permiso del Rey",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 36,
+    "text": "y una cruz como bandera",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 37,
+    "text": "habían salido tres barcos",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 38,
+    "text": "de Palos de la Frontera.",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 39,
+    "text": "El destino los guiaba",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 40,
+    "text": "dirigidos por Colón,",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 41,
+    "text": "la experiencia de Pinzón",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 42,
+    "text": "durante 33 días",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 43,
+    "text": "atravesando los mares",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 44,
+    "text": "condujo la expedición.",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 45,
+    "text": "Y así fue que en una noche,",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 46,
+    "text": "las 2 de la madrugada,",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 47,
+    "text": "se oyó a Rodrigo de Triana",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 48,
+    "text": "gritando con voz profunda",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 49,
+    "text": "que tenían tierra a la vista.",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 50,
+    "text": "Llegaron por la mañana",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 51,
+    "text": "Nos cuenta el mismo Colón",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 52,
+    "text": "que salió gente desnuda",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 53,
+    "text": "Tierra de árboles muy verdes",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 54,
+    "text": "muchas aguas, muchas frutas",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 55,
+    "text": "Pero no había cascabeles.",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 56,
+    "text": "Ellos trajeron la rueda",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 57,
+    "text": "el hierro y los caballos",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 58,
+    "text": "cerdos, vacas y gallinas",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 59,
+    "text": "La biblia y el evangelio.",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 60,
+    "text": "Aquí encontraron la papa",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 61,
+    "text": "el tabaco y el maíz",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 62,
+    "text": "la fresa y el chocolate",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 63,
+    "text": "la vainilla y el tomate",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 64,
+    "text": "Se llevaron todo el oro",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 65,
+    "text": "Y nos fundimos en uno",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 66,
+    "text": "dando inicio a un nuevo mundo.",
+    "era": "Pasado",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 67,
+    "text": "Cuentan que África es",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 68,
+    "text": "madre de todo lo humano",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 69,
+    "text": "Que era el sitio del Edén.",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 70,
+    "text": "Un grupo de mercenarios",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 71,
+    "text": "se robaban a su gente",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 72,
+    "text": "Los traían por estas tierras,",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 73,
+    "text": "en grilletes los forzaban",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 74,
+    "text": "a trabajar día y noche.",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 75,
+    "text": "Y fue el último ingrediente",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 76,
+    "text": "que nos hizo quienes somos",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 77,
+    "text": "Ni europeos, ni taínos, ni africanos.",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 78,
+    "text": "Mezclados durante siglos",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 79,
+    "text": "fuimos una sola raza",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 80,
+    "text": "que trabajando muy duro",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 81,
+    "text": "construyó una identidad",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 82,
+    "text": "Luchando contra piratas,",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 83,
+    "text": "hormigas, filibusteros",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 84,
+    "text": "Fuimos Francia y luego España",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 85,
+    "text": "hasta que nuestros vecinos,",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 86,
+    "text": "igual que Napoleón,",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 87,
+    "text": "nos brindaron libertad",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 88,
+    "text": "con la punta de un cañón.",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 89,
+    "text": "Entonces fue cuando Duarte,",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 90,
+    "text": "hombre culto y educado,",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 91,
+    "text": "regresó con la visión",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 92,
+    "text": "de Dios, Patria y Libertad.",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 93,
+    "text": "Convocó a la Filantrópica",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 94,
+    "text": "Y con arte entre las manos",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 95,
+    "text": "fue moviendo corazones",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 96,
+    "text": "Prepararon las banderas",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 97,
+    "text": "Un grito de tres en tres",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 98,
+    "text": "Una noche y un trabuco",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 99,
+    "text": "que fue estrella de Belén.",
+    "era": "Pasado",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 100,
+    "text": "El principio del presente comienza en el siglo XX",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 101,
+    "text": "cuando un grupo decidió demarcar todas las tierras",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 102,
+    "text": "En eso andaba un peón que se llamaba Liborio",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 103,
+    "text": "Se dice que ese buen hombre fue ascendido a las alturas",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 104,
+    "text": "y volvió del más allá mitad Cristo mitad Ché",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 105,
+    "text": "Se convirtió en un profeta",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 106,
+    "text": "Que sanaba los enfermos y predicaba el amor",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 107,
+    "text": "Se enfrentó a los que abusaban defendiendo al campesino,",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 108,
+    "text": "Cuando invadieron la isla, tomó arma entre las manos",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 109,
+    "text": "Las personas lo escondían, le brindaban alimento.",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 110,
+    "text": "Y en la loma lo mataron convirtiéndolo en un Santo.",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 111,
+    "text": "El Tío Sam encomendó de encargado a un general",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 112,
+    "text": "que se llamaba Trujillo",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 113,
+    "text": "Padre de la Patria Nueva y autoproclamado dios",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 114,
+    "text": "Casi un ser omnipresente que imponía su voluntad",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 115,
+    "text": "Sembró un reino de terror inigualable",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 116,
+    "text": "Se concedía el privilegio de tomar cuanto quería,",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 117,
+    "text": "Obligó a cambiarle el nombre a la ciudad,",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 118,
+    "text": "Hasta que un 30 de mayo hubo un grupo de valientes",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 119,
+    "text": "con agallas suficientes de escalar el monte Olimpo.",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 120,
+    "text": "Le arrebataron la vida",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 121,
+    "text": "Regalándonos por siempre libertad.",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 122,
+    "text": "Muy poco tiempo después para ordenar el desorden",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 123,
+    "text": "nos enviaron desde el norte otro grupo de marines.",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 124,
+    "text": "Dividieron la ciudad, cercaron a los rebeldes",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 125,
+    "text": "Cuando en el 65, nuestros hombres y mujeres",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 126,
+    "text": "pelearon con militares que eran de aquí y de allá.",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 127,
+    "text": "En Ciudad Nueva se dice que no fumaban de noche",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 128,
+    "text": "Porque un yanqui que tenían en un techo atrincherado",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 129,
+    "text": "Era capaz de poner la bala en una luciérnaga.",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 130,
+    "text": "Así se dió la batalla más sangrienta de esta historia",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 131,
+    "text": "Hubo gente que lloró cuando Caamaño llegó hasta el parque Independencia.",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 132,
+    "text": "Y no valió triunvirato, volvió y volvió Balaguer.",
+    "era": "Presente",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 133,
+    "text": "La era de los ochenta fue una época dorada",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 134,
+    "text": "Los domingos en familia se solía ir a cenar",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 135,
+    "text": "La delincuencia era un tema que atacaba otros países",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 136,
+    "text": "Mientras el que había estudiado conseguía un buen trabajo",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 137,
+    "text": "Tu palabra era más fuerte que la firma de un contrato",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 138,
+    "text": "La comida era barata",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 139,
+    "text": "Y aunque pudiera pecar de parecer muy ingenuo",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 140,
+    "text": "por lo que dice la frase: “Tiempo pasado es mejor”",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 141,
+    "text": "Aún no había sicariato ni bancas en las esquinas",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 142,
+    "text": "Era un tiempo en que el honor era algo de caballeros",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 143,
+    "text": "Se dice que un presidente se nos marchó por honor.",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 144,
+    "text": "Los domingos Jack Veneno le aplicaba la polémica",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 145,
+    "text": "a toda la cuadra ruda y hasta al engendro del mal",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 146,
+    "text": "Pololo, Cuquín y Boruga entrevistados por Freddy",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 147,
+    "text": "que se aguantaba la risa y no podía continuar.",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 148,
+    "text": "Las sorpresitas Popeye alegraban a los niños",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 149,
+    "text": "Los huevos que se tiraban en el día de San Andrés",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 150,
+    "text": "Los helados imperiales, las paletas de Frigor",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 151,
+    "text": "Nada más emocionante que montar el Super 8",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 152,
+    "text": "dejando tu vida en manos de los del Quisqueya Park",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 153,
+    "text": "Esperar que den al chavo y después a Tres Patines",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 154,
+    "text": "En un Mundo sobre Ruedas que da vueltas sin parar.",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 155,
+    "text": "Entonces rápidamente se sucedieron eventos",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 156,
+    "text": "Nos llegó la Perestroika, cayó el muro de Berlín",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 157,
+    "text": "Irak invade Kuwait, la tormenta en el desierto",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 158,
+    "text": "El nacimiento del Grunge, la muerte de Kurt Cobain",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 159,
+    "text": "Liberaron a Mandela y se acabó el apartheid.",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 160,
+    "text": "Clonan la primera oveja y se muere Lady Di",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 161,
+    "text": "Perdimos a Freddy Mercury, introducen el cd",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 162,
+    "text": "El papa visita a Cuba, comienzan a vender viagra",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 163,
+    "text": "Microsoft y Macintosh se dividen las ganancias",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 164,
+    "text": "El mundo ha quedado envuelto en la red del internet",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 165,
+    "text": "Y no hubo Y2K.",
+    "era": "Presente",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 166,
+    "text": "Cambio de siglo y milenio, iniciamos otra historia",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 167,
+    "text": "En este presente actual no existen ideologías",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 168,
+    "text": "Comunismo, socialismo y democracia, todas valen ya lo mismo",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 169,
+    "text": "Los anuncios de la tele son los únicos filósofos",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 170,
+    "text": "Sólo debes consumir para adquirir las virtudes",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 171,
+    "text": "del hombre mega-moderno",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 172,
+    "text": "Un hombre lleno de cosas y vacío de valores.",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 173,
+    "text": "El esfuerzo necesario para conseguir lo tuyo",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 174,
+    "text": "es un concepto de tontos, y la regla que se aplica",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 175,
+    "text": "es que el dinero es mejor mientras menos trabajado,",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 176,
+    "text": "Que haya pobres ya es costumbre y problema del estado.",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 177,
+    "text": "Sería fácil compararlo con lo que ocurre en el cuerpo",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 178,
+    "text": "Una máquina brillante que no sabemos usar",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 179,
+    "text": "El hombre mega-moderno no sabe ni respirar",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 180,
+    "text": "Estamos ensimismados con la grandeza del hombre",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 181,
+    "text": "No nos entendemos parte de la luna y las estrellas.",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 182,
+    "text": "Nos parecemos al cáncer.",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 183,
+    "text": "Células que estando enfermas atacan a las más sanas",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 184,
+    "text": "Se trasladan por el cuerpo hasta producir metástasis",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 185,
+    "text": "Pensamientos cancerígenos que se implantan en la mente",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 186,
+    "text": "y transforman a la gente en entes depredadores",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 187,
+    "text": "capaz de vender la patria por un puñado de dólares.",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 188,
+    "text": "Una mañana cualquiera llegamos al punto 0",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 189,
+    "text": "El planeta ya agotado, nos pedía que nos marcháramos",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 190,
+    "text": "Países morían de hambre, otros quemaban comida",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 191,
+    "text": "Las compañías farmacéuticas en vez de querernos sanos",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 192,
+    "text": "nos preferían de clientes",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 193,
+    "text": "La política era un juego solo para enriquecerse",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 194,
+    "text": "Al hombre no le importaba el hombre que tenía al lado",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 195,
+    "text": "Los carteles y los bancos se hicieron con el poder",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 196,
+    "text": "El concepto de familia hace años transformado",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 197,
+    "text": "La desconexión total, pero todos conectados",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 198,
+    "text": "Cuando resurgió una raza de nuevos dominicanos.",
+    "era": "Presente",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 199,
+    "text": "El futuro de esta historia",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 200,
+    "text": "nace con una familia",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 201,
+    "text": "que para sacar sus hijos",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 202,
+    "text": "de tantas complicaciones",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 203,
+    "text": "decide mudarse al campo.",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 204,
+    "text": "Comprendieron que la clave era volver a empezar.",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 205,
+    "text": "El tiempo era muy valioso",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 206,
+    "text": "para pasarlo sentado",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 207,
+    "text": "yendo y viniendo al trabajo",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 208,
+    "text": "sin verse más que unas horas,",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 209,
+    "text": "eso no era calidad.",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 210,
+    "text": "Sus amigos entendieron",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 211,
+    "text": "que esta era la respuesta",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 212,
+    "text": "y se mudaron también.",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 213,
+    "text": "Crearon nuevas escuelas",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 214,
+    "text": "donde ellos enseñaban",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 215,
+    "text": "una forma creativa de solucionar problemas.",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 216,
+    "text": "Les mostraban a sus hijos",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 217,
+    "text": "que para sobrevivir",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 218,
+    "text": "y seguir en este mundo",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 219,
+    "text": "la única meta posible",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 220,
+    "text": "es ser autosostenibles.",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 2,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 221,
+    "text": "Pero no eran ermitaños",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 222,
+    "text": "también tenían internet",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 223,
+    "text": "y con paneles solares",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 224,
+    "text": "crearon hogares verdes",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 225,
+    "text": "llenos de comodidades.",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 226,
+    "text": "Las personas de otros pueblos comprendieron el concepto",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 227,
+    "text": "y lucharon por lo mismo",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 228,
+    "text": "buscaron cuales recursos",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 229,
+    "text": "proporcionaba la zona",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 230,
+    "text": "para poder trabajarlos",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 231,
+    "text": "hasta potencializarlos.",
+    "era": "Futuro",
+    "poemIndex": 1,
+    "stanzaIndex": 3,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 232,
+    "text": "Estas nuevas sociedades",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 233,
+    "text": "empezaron a surgir",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 234,
+    "text": "a lo largo de la isla",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 235,
+    "text": "Se trataban como hermanos",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 236,
+    "text": "No había problemas de uno",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 237,
+    "text": "Finalmente comprendieron que somos parte de un cuerpo",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 238,
+    "text": "Y de estas nuevas ciudades",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 239,
+    "text": "surgió una nueva esperanza",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 240,
+    "text": "y estos nuevos sentimientos",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 241,
+    "text": "cambiaron nuestra visión",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 242,
+    "text": "y el concepto de nación.",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 1,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 243,
+    "text": "La isla se organizó",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 244,
+    "text": "nuevamente en cacicazgos",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 245,
+    "text": "Nuestra creatividad",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 246,
+    "text": "aplicada con esfuerzo",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 247,
+    "text": "aumentó nuestras riquezas.",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 248,
+    "text": "Los impuestos se empleaban donde eran necesarios.",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 249,
+    "text": "Los países en el mundo",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 250,
+    "text": "se quedaron boquiabiertos",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 251,
+    "text": "cuando acabo la pobreza",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 252,
+    "text": "y volvieron las sonrisas",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 253,
+    "text": "a nuestra tierra bendita.",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 2,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 254,
+    "text": "No fue algo complicado",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 255,
+    "text": "pero requirió de tiempo",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 256,
+    "text": "en el planeta completo",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 257,
+    "text": "pequeñas comunidades",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 258,
+    "text": "adaptaron el modelo.",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 259,
+    "text": "La nueva revolución no gastó una sola bala",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 260,
+    "text": "todo se hizo libremente",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 261,
+    "text": "cada ciudad diferente",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 262,
+    "text": "trabajaron sus recursos",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 263,
+    "text": "compartieron sus ideas",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 264,
+    "text": "y empezó una nueva era.",
+    "era": "Futuro",
+    "poemIndex": 2,
+    "stanzaIndex": 3,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 265,
+    "text": "Si algo hemos de aprender",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 266,
+    "text": "es que la vida es un ciclo",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 267,
+    "text": "Todo vuelve a comenzar",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 268,
+    "text": "No hay manera de evitarlo",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 269,
+    "text": "Cada vez sabemos más",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 270,
+    "text": "El momento de iniciar a la vuelta de la esquina",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 271,
+    "text": "sólo debemos confiar",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 272,
+    "text": "acabar el pesimismo",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 273,
+    "text": "madre natura no falla",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 274,
+    "text": "siempre elige lo correcto",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 275,
+    "text": "a la hora de cambiar.",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 1,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 276,
+    "text": "Nuestro mundo volverá",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 277,
+    "text": "a un tiempo de paz inmensa",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 278,
+    "text": "donde reine la armonía",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 279,
+    "text": "La gente viva tranquila",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 280,
+    "text": "La vida tenga sentido",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 281,
+    "text": "Donde todo lo que existe ocupe bien su lugar",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 282,
+    "text": "Las familias tendrán tiempo",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 283,
+    "text": "para estar unos con otros",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 284,
+    "text": "La ciencia terminará",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 285,
+    "text": "con el hambre y la ignorancia",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 286,
+    "text": "El mundo será perfecto.",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 2,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 287,
+    "text": "Aunque sólo dure un tiempo",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 288,
+    "text": "nada nos cuesta soñar",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 289,
+    "text": "que nuestra isla será",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 3
+  },
+  {
+    "globalLineIndex": 290,
+    "text": "la primada de otra historia",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 4
+  },
+  {
+    "globalLineIndex": 291,
+    "text": "como fuimos una vez",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 5
+  },
+  {
+    "globalLineIndex": 292,
+    "text": "El ombligo de este mundo, podemos serlo otra vez.",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 6
+  },
+  {
+    "globalLineIndex": 293,
+    "text": "Quisqueyanos. Valientes.",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 7
+  },
+  {
+    "globalLineIndex": 294,
+    "text": "En el mismo trayecto del sol,",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 8
+  },
+  {
+    "globalLineIndex": 295,
+    "text": "si alguien quiere saber cuál es mi Patria",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 9
+  },
+  {
+    "globalLineIndex": 296,
+    "text": "es ella la que anda ya,",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 10
+  },
+  {
+    "globalLineIndex": 297,
+    "text": "más arriba, mucho más.",
+    "era": "Futuro",
+    "poemIndex": 3,
+    "stanzaIndex": 3,
+    "lineIndex": 11
+  },
+  {
+    "globalLineIndex": 298,
+    "text": "Nuestro pasado es hermoso",
+    "era": "Post-Data",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 1
+  },
+  {
+    "globalLineIndex": 299,
+    "text": "Nuestro presente es oscuro",
+    "era": "Post-Data",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 2
+  },
+  {
+    "globalLineIndex": 300,
+    "text": "Nuestro futuro es ser uno.",
+    "era": "Post-Data",
+    "poemIndex": 1,
+    "stanzaIndex": 1,
+    "lineIndex": 3
+  }
+]

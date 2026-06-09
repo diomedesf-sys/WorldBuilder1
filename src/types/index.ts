@@ -173,7 +173,7 @@ export interface SavedGlyph {
     compositionRule: string;
 }
 
-export type ViewName = 'dashboard' | 'poem' | 'storyboard' | 'vector' | 'preview' | 'thumbnail' | 'studio' | 'focus' | 'animation';
+export type ViewName = 'dashboard' | 'score' | 'procedural' | 'poem' | 'storyboard' | 'vector' | 'preview' | 'thumbnail' | 'studio' | 'focus' | 'animation';
 
 export interface AudioSettings {
     bgmUrl: string;
