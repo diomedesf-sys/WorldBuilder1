@@ -5,7 +5,7 @@ import svgr from 'vite-plugin-svgr'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: './', // Allow running from index.html without a server
+  base: '/WorldBuilder1/',
   plugins: [
     react(),
     tailwindcss(),
